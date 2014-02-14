@@ -10,7 +10,7 @@
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cojohn/node-urban-airship.git"
+    "url": "git://github.com/Bluemungus/node-urban-airship.git"
   },
   "keywords": ["Urban Airship", "iPhone", "iOS", "Android", "notification", "push", "api"],
   "license": "MIT",
